@@ -1,6 +1,6 @@
 # MusConv
 
-Сервис позволяющйи конвертировать ссылки между разными музыкальными стриминг-сервисами на основе бота в telegram 
+Telegram bot that enables convertion links between differnt music straming services.
 WIP:  [@MusConvBot](https://www.t.me/musconvbot)
 
 **Fast links:**
